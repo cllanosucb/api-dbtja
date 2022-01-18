@@ -1,0 +1,19 @@
+{
+  "name": "api-dbtja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Llanos Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.1.0",
+    "oracledb": "^5.3.0",
+    "pg": "^8.7.1"
+  }
+}
